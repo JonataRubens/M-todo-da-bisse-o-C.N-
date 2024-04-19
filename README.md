@@ -1,4 +1,4 @@
-# M-todo-da-bisse-o-C.N-
+# Motodo da bisseçãoC.N
 Este script Python realiza a bisseção de uma função
 
 

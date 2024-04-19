@@ -1,5 +1,4 @@
 # Motodo da bisseçãoC.N
-Este script Python realiza a bisseção de uma função
 
 
 Este script Python realiza a bisseção de uma função para encontrar suas raízes e inclui funções para plotar a função e a raiz encontrada.

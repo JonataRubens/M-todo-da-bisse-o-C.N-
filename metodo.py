@@ -36,7 +36,7 @@ def funcao_exemplo(x):
 # Intervalo inicial [a, b], tolerância e número máximo de iterações
 a = 1
 b = 3
-tol = 1e-10
+tol = 0.01
 max_iter = 100
 
 raiz, dados_bissecao = bissecao(funcao_exemplo, a, b, tol, max_iter)
